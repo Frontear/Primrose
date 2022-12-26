@@ -1,7 +1,7 @@
 import os
 import pygame
 from pygame.locals import *
-from generic_scene import GenericScene
+from scenes.generic_scene import GenericScene
 
 def main():
     pygame.init()
